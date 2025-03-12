@@ -21,7 +21,6 @@
   "author": "Miguel Chambel",
   "license": "MIT",
   "dependencies": {
-    "canvas": "^2.11.2",
     "commander": "^11.0.0",
     "dwv": "^0.31.1",
     "object-hash": "^3.0.0"
